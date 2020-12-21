@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Voyager 1 Captcha.</h1>
+<h1 align="center">Voyager 1 Captcha</h1>
 
 ---
  
