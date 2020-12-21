@@ -11,7 +11,7 @@
 <h2 align="center">Sobre 📖</h2>
    
    <p align="center">
-      O Voyager 1 apareceu como um projeto de bot para auxiliar o servidor de Discord [Poeira Cósmica](https://discord.gg/Grp6eyX), porém o sistema de verificação foi separado e virou um bot independente: o Voyager 1 Captcha. Ele fornece uma verificação eficiente de novos membros com operações matemáticas básicas.<br>
+      O Voyager 1 apareceu como um projeto de bot para auxiliar o servidor de Discord <a href="https://discord.gg/Grp6eyX">Poeira Cósmica</a>, porém o sistema de verificação foi separado e virou um bot independente: o Voyager 1 Captcha. Ele fornece uma verificação eficiente de novos membros com operações matemáticas básicas.<br>
    </p>
 
 ---
@@ -27,8 +27,19 @@
 
 <h2 align="center">Tecnologias</h2>
 
-- [NodeJs](https://nodejs.org/en/)
-- [discord.js](https://discord.js.org/)
+- [NodeJs v14.15.3](https://nodejs.org/en/)
+- [discord.js v12.5.1](https://discord.js.org/)
+
+---
+
+<h2 align="center">Dependências</h2>
+
+- [NodeJs v14.15.3](https://nodejs.org/en/)
+- [discord.js v12.5.1](https://discord.js.org/)
+- [ascii-table v0.0.9](https://www.npmjs.com/package/ascii-table)
+- [better-sqlite3 v7.1.2](https://www.npmjs.com/package/better-sqlite3)
+- [fs v0.0.1-security](https://www.npmjs.com/package/fs)
+- [quick.db v7.0.0-b21](https://www.npmjs.com/package/quick.db)
 
 ---
 
