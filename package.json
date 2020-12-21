@@ -1,0 +1,20 @@
+{
+  "name": "voyager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LukeFl_",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "better-sqlite3": "^7.1.2",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.6",
+    "quick.db": "^7.0.0-b21"
+  },
+  "description": ""
+}
