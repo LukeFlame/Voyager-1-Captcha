@@ -37,7 +37,6 @@
 - [NodeJs v14.15.3](https://nodejs.org/en/)
 - [discord.js v12.5.1](https://discord.js.org/)
 - [ascii-table v0.0.9](https://www.npmjs.com/package/ascii-table)
-- [better-sqlite3 v7.1.2](https://www.npmjs.com/package/better-sqlite3)
 - [fs v0.0.1-security](https://www.npmjs.com/package/fs)
 - [quick.db v7.0.0-b21](https://www.npmjs.com/package/quick.db)
 

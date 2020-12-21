@@ -10,7 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "ascii-table": "0.0.9",
-    "better-sqlite3": "^7.1.2",
     "discord.js": "^12.5.1",
     "fs": "0.0.1-security",
     "nodemon": "^2.0.6",
