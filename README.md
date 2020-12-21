@@ -45,8 +45,6 @@
 
 <h2 align="center">Como usar 🤔</h2>
 
-<p>Você pode convidar bot em completo funcionamento aqui: https://lukeflame.github.io/TecMind/ ou:</p>
-
 ```
 - Clone o repositório:
 $ git clone https://github.com/LukeFlame/Voyager-1-Captcha.git
