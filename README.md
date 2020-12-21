@@ -19,7 +19,7 @@
 <h2 align="center">Previews 🖥️</h2>
 
    <p align="center">
-      <img src="https://cdn.discordapp.com/attachments/788786275447472151/790681923113975808/Screenshot_20201221_174651.png" width="90%" alt="Mensagem de verificação"/>
+      <img src="https://cdn.discordapp.com/attachments/788786275447472151/790707778720235570/Peek_21-12-2020_19-28.gif" width="90%" alt="Mensagem de verificação"/>
       <img src="https://cdn.discordapp.com/attachments/788786275447472151/790681922518253639/Screenshot_20201221_174721.png" width="90%" alt="Configurações"/>
    </p>
 
